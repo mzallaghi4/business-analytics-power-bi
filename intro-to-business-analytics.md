@@ -3,7 +3,7 @@
 
 ---
 
-## 🎯 Why Business Analytics Matters
+##  Why Business Analytics Matters
 
 In today’s organizations, decisions are no longer made based on intuition alone.  
 **Business Analytics** helps leaders and managers:
@@ -21,7 +21,7 @@ Business analytics answers questions such as:
 
 ---
 
-## 📊 What Is Business Analytics?
+##  What Is Business Analytics?
 
 **Business Analytics** is the process of:
 > Collecting, analyzing, and visualizing data to support better business decisions.
@@ -34,7 +34,7 @@ It focuses on:
 
 ---
 
-## 🧠 Analytics vs Reporting
+## Analytics vs Reporting
 
 | Reporting | Business Analytics |
 |---------|-------------------|
@@ -47,7 +47,7 @@ Power BI helps move from **static reporting** to **interactive analytics**.
 
 ---
 
-## 📈 Types of Business Analytics (Executive View)
+##  Types of Business Analytics (Executive View)
 
 ### 1. Descriptive Analytics – *What happened?*
 - Monthly revenue
@@ -83,7 +83,7 @@ Power BI helps move from **static reporting** to **interactive analytics**.
 
 ---
 
-## 📌 KPIs vs Metrics (Very Important)
+## KPIs vs Metrics (Very Important)
 
 ### Metric
 A **measurement** of an activity  
@@ -101,7 +101,7 @@ Example:
 
 ---
 
-## 💰 Core Finance KPIs (Executive Focus)
+##  Core Finance KPIs (Executive Focus)
 
 | KPI | Business Question |
 |---|---|
@@ -117,7 +117,7 @@ These KPIs are commonly shown in **finance dashboards**.
 
 ---
 
-## 👥 Core HR KPIs (Leadership Focus)
+##  Core HR KPIs (Leadership Focus)
 
 | KPI | Business Question |
 |---|---|
@@ -133,7 +133,7 @@ HR analytics connects **people data** to **business outcomes**.
 
 ---
 
-## 📊 Role of Power BI in Business Analytics
+##  Role of Power BI in Business Analytics
 
 Power BI enables:
 - Interactive dashboards
@@ -146,7 +146,7 @@ For executives, Power BI answers:
 
 ---
 
-## 📘 Example: Executive Business Questions
+##  Example: Executive Business Questions
 
 ### Finance
 - Why did profit drop even though revenue increased?
@@ -160,7 +160,7 @@ For executives, Power BI answers:
 
 ---
 
-## 🎓 What You Will Learn in This Course
+## What You Will Learn in This Course
 
 By the end of this course, you will be able to:
 - Understand and interpret key Finance & HR KPIs
@@ -170,7 +170,7 @@ By the end of this course, you will be able to:
 
 ---
 
-## 🚀 Next Step
+## Next Step
 
 In the next module, we will explore:
 > **Power BI for Executives**  
