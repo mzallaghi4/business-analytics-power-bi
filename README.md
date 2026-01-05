@@ -14,7 +14,7 @@ A hands-on course covering data analysis, data modeling, DAX, and interactive da
 ---
 ### 📚 Course Outline
 
-1. Introduction to Business Analytics
+1. Introduction to Business Analytics  (01-business-analytics-foundations/intro-to-business-analytics.md)
 2. Power BI Fundamentals
 3. Data Import & Data Cleaning
 4. Data Modeling
