@@ -31,7 +31,6 @@ Part 2: Business Analytics with Power BI
 7. Data Visualization & Dashboard Design
 8. Business Case Studies
 9. Final Project
-- End-to-end business analytics project (Data modeling, DAX, and dashboard creation)
   
 Part 3: Statistical Analysis for Business
 - Descriptive statistics
